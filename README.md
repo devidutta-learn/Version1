@@ -6,8 +6,7 @@
 Description of the app ...
 
 ## Demo App
-
-[![Streamlit App](https://version1-re8pmththg3mc28xcm4r2w.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://version1-re8pmththg3mc28xcm4r2w.streamlit.app/)
 
 ## GitHub Codespaces
 
